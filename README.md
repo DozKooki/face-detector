@@ -28,4 +28,4 @@ python main.py
 > Make sure `beep.wav` is in the same folder as `main.py`.
 
 ## 📄 License
-MIT License © 2025 YourName
+MIT License © 2025 DozKooki
