@@ -27,5 +27,8 @@ python main.py
 
 > Make sure `beep.wav` is in the same folder as `main.py`.
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Face--Detector-blue?logo=github)](https://github.com/DozKooki/face-detector)
+
+
 ## 📄 License
 MIT License © 2025 DozKooki
