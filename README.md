@@ -19,7 +19,7 @@ A Python-based face detection system using OpenCV, with real-time webcam support
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/face-detector.git
+git clone https://github.com/DozKooki/face-detector.git
 cd face-detector
 pip install -r requirements.txt
 python main.py
